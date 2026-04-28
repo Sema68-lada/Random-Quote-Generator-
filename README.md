@@ -29,4 +29,4 @@
 ### Инструкция по запуску
 1. Клонируйте репозиторий:
    ```bash
-   git clone <URL-репозитория>
+   git clone <[URL-репозитория](https://github.com/Sema68-lada/Random-Quote-Generator-/blob/main/main.py)>
